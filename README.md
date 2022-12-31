@@ -1,2 +1,2 @@
-# Data-Scraping-project-Times-Jobs-portal
-Data scraping project of Times Jobs portal
+# Web-Scraping-project-Times-Jobs-portal
+Web scraping project of Times Jobs portal
